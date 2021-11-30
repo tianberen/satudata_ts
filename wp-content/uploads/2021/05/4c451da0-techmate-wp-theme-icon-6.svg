@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="60" height="60" transform="translate(867 744)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6362d7"/>
+      <stop offset="1" stop-color="#a67bff"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-867 -744)" clip-path="url(#clip-path)">
+    <g id="analytics-chart-symbol" transform="translate(867 723.429)">
+      <g id="_x35__21_" transform="translate(0 30.765)">
+        <path id="Path_511" data-name="Path 511" d="M51.1,30.777c-5.017-.271-8.642,4.272-8.892,8.892a8.729,8.729,0,0,0,3.759,7.047q-3,4.514-6.013,9.03a8.912,8.912,0,0,0-3.628-1.008,6.747,6.747,0,0,0-4.616,1.509l-6.884-7.691a6.985,6.985,0,0,0,.688-2.628c.186-3.452-2.941-5.949-6.119-6.12-3.451-.186-5.949,2.942-6.12,6.12a6.825,6.825,0,0,0,.666,2.6L8.28,55.089a5.69,5.69,0,0,0-3-1.015C2.3,53.915.155,56.606.007,59.339c-.16,2.968,2.532,5.115,5.263,5.261,2.968.16,5.116-2.53,5.262-5.261a5.75,5.75,0,0,0-.8-2.653l4.313-5q.59-.686,1.181-1.368a6.471,6.471,0,0,0,4.159,1.728,5.375,5.375,0,0,0,4.167-1.678q3.328,3.721,6.658,7.44A8.955,8.955,0,0,0,28.5,62.553a8,8,0,0,0,7.814,7.814c4.408.237,7.593-3.754,7.813-7.813a6.918,6.918,0,0,0-2.416-5.58Q44.8,52.337,47.893,47.7c5.058,1.824,11.707-.851,12.1-8.029C60.26,34.652,55.716,31.023,51.1,30.777Z" transform="translate(0 -30.765)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
